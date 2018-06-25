@@ -1,5 +1,5 @@
-# ValidateExcelFileFormat
-a psr-4 package to validate excel file format and its data. It validate unlimited type of excel files by just adding or define rule to each type.
+# ValidateExcelFileFormat 
+a psr-4 package to validate excel file format and its data. It validates unlimited type of excel files by just adding or define a rule to each type. This code uses Factory design pattern which facilitates changing or adding a new type to the project easily.
 
 #### General Rules
 1. Column name that starts with # should not contain any space
